@@ -95,7 +95,7 @@ Please refer to the [package.json](client/package.json) file the for the most up
 The server
 
 - persists course reviews and semester information to the database(See Persistence section below).
-- updates the  statistics for courses
+- updates the statistics for courses
   - e.g average workload, minimum rating etc
 
 ### Tools used
